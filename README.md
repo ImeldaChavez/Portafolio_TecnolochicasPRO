@@ -13,7 +13,7 @@ También incluye imágenes alternativas en la carpeta `imagenes` en caso de que 
 Este portafolio lo adpte de acuerdo a mis proyectos universitario con ayuda de las habilidades que adquirí en el Bootcamp de Tecnolochicas PRO donde aprendimos a utilizar lenguajes de programación realizando distintas prácticas que añado dentro de este mismo portafolio, así mismo prácticas que realicé en la univeridad. 
 
 **Link de acceso al portafolio:** 
-
+https://portafolioimeldagchaveztecnolochicas.netlify.app/
 
 ### Capturas de pantalla:
 
